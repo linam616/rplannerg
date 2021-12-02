@@ -1,0 +1,3 @@
+[submodule "src/uiuc"]
+	path = src/uiuc
+	url = https://github.com/pranaygp/uiuc.git
