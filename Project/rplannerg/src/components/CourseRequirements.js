@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import styled from 'styled-components';
 
+
 const CourseMain = styled("div")`
   font-family: sans-serif;
   background: #C2AFF0;
