@@ -36,7 +36,6 @@ What are the features discussed, but not in the MVP? :
 (A list of features that would be nice to add given more time.)
 -Reward for steps tracker
 
-Which does the tech stack look like and why did you choose these over alternatives? 
-JavaScript because everyone in the group is familiar or are currently studying Java
-Java is primarily used for android apps
+Which does the tech stack look like?
+CSS
 React and Node.js
