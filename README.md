@@ -12,12 +12,10 @@ Team Members: lmei25, yijun4, jasonzh2, phuan3
 
 Project Manager: justink6
 
-What problem is your project trying to solve? :
-(Given infinite time and resources what is the ideal form of this idea? Also include the fundamental hypothesis of this idea - what assumption are you basing this idea on.) 
+What problem is your project trying to solve?:
 
 The project is a college planner designed mainly for UIUC students that keeps track of course requirements, exams/quizzes, overall health summary, and events/reminders 
 Bases it off an RPG style game that rewards you for keeping track of your schedule and well being
-Hypothesis: Hybrid between a general college planner and RPG style game that incorporates a student’s daily schedule and provides a reward system for following through with course requirements and routine schedule
 
 Describe your MVP (Minimum Viable Product) : 
 (What are the benchmarks in your MVP so that you are moving towards your grand vision. Does it test your hypothesis?)
